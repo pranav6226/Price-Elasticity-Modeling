@@ -1,4 +1,4 @@
-# Price Elasticity Modelling Using PySpark
+# Price Elasticity Modeling Using PySpark
 
 This repository contains the code and report for our **Big Data Analytics** project on **Price Elasticity Modelling (PED)** using **PySpark**. The project aims to analyze the relationship between price changes and consumer demand to help businesses optimize their pricing strategies for maximizing revenue.
 
